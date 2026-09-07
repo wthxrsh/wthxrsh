@@ -1,34 +1,31 @@
-# Hi, I'm Harsh 👋
+# Harsh Shah
 
-### Software Engineer | Backend & AI Enthusiast
+Software Engineer focused on backend development, systems, and AI engineering.
 
-I'm a Computer Science student passionate about building software, backend systems, and AI-powered applications.
+## Skills
 
-### 🛠️ Skills
+**Languages**
+Java, Python, JavaScript, SQL, C++
 
-**Languages:**
-Java · Python · JavaScript · SQL · C++
+**Backend**
+Spring Boot, REST APIs, Hibernate/JPA
 
-**Backend:**
-Spring Boot · REST APIs · Hibernate/JPA
+**Databases**
+PostgreSQL, MySQL, Redis
 
-**Databases:**
-PostgreSQL · MySQL · Redis
+**Tools & Infrastructure**
+Git, Docker, Linux, RabbitMQ
 
-**Tools & Technologies:**
-Git · GitHub · Docker · Linux · RabbitMQ
-
-### 💡 Interests
+## Interests
 
 * Backend Engineering
 * Distributed Systems
-* Artificial Intelligence
 * System Design
+* Artificial Intelligence
 * Cloud Computing
 * Software Engineering
 
-### 🔗 Connect With Me
+## Profiles
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🧩 [LeetCode](YOUR_LEETCODE_URL)
-* 💻 [GitHub](https://github.com/wthxrsh)
+* [LinkedIn](https://www.linkedin.com/in/wthxrsh/)
+* [LeetCode](https://leetcode.com/u/wthxrsh/)
