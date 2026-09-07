@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**wthxrsh/wthxrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend & AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building software, backend systems, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Languages:**
+Java · Python · JavaScript · SQL · C++
+
+**Backend:**
+Spring Boot · REST APIs · Hibernate/JPA
+
+**Databases:**
+PostgreSQL · MySQL · Redis
+
+**Tools & Technologies:**
+Git · GitHub · Docker · Linux · RabbitMQ
+
+### 💡 Interests
+
+* Backend Engineering
+* Distributed Systems
+* Artificial Intelligence
+* System Design
+* Cloud Computing
+* Software Engineering
+
+### 🔗 Connect With Me
+
+* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 🧩 [LeetCode](YOUR_LEETCODE_URL)
+* 💻 [GitHub](https://github.com/wthxrsh)
