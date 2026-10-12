@@ -33,11 +33,6 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Design, Syst
 - Cloud Computing and Infrastructure
 - Performance, Reliability, and API Design
 
-## Featured Projects
-
-- **[Revisit](https://github.com/wthxrsh/Revisit)** — A personal knowledge base with document ingestion, semantic search, and RAG-powered answers.
-- **[Social Media Platform](https://github.com/wthxrsh/social-media-platform)** — A backend-focused social media application built with FastAPI.
-
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/wthxrsh/)
